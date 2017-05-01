@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "519549371880",
+    "firebase_url": "https://qrcodegenerator-899e2.firebaseio.com",
+    "project_id": "qrcodegenerator-899e2",
+    "storage_bucket": "qrcodegenerator-899e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519549371880:android:143e40899d57a23b",
+        "android_client_info": {
+          "package_name": "com.yogeshkumar.qrcodegenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519549371880-dqrfa1m9aehn4q19qfr2jmr06atmvf0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yogeshkumar.qrcodegenerator",
+            "certificate_hash": "350452365f657150ac871f63f5296d3463cd4386"
+          }
+        },
+        {
+          "client_id": "519549371880-5fvfo8jllpoa0j43gurk4n5co0317qf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyHVL7aL3D7Z9Pq-mifI5GhKhGzOY_pSQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519549371880-5fvfo8jllpoa0j43gurk4n5co0317qf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
